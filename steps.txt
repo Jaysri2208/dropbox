@@ -1,0 +1,10 @@
+https://www.dropbox.com/developers
+
+create app
+
+generate token , copy and paste in app.py
+
+https://www.dropbox.com/developers/apps
+
+python -m venv myenv
+myenv\Scripts\activate
